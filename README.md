@@ -1,4 +1,5 @@
 # alx-pre_course
-I'm now a ALX Student, this is my first repository as a full-stack engineer
 
+My first repository (2023), created during the ALX Software Engineering pre-course. Kept as a record of where I started — my current work is in cybersecurity (audit, vulnerability management, SOC).
 
+See my profile: https://github.com/hassanekara
